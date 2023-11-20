@@ -27,7 +27,7 @@ This application manages contacts efficiently while following the SOLID principl
    - Obtain your connection string.
 
 5. **Configure MongoDB Connection:**
-   - Open `appsettings.json` and replace the placeholder in `"MongoConnection"` with your MongoDB connection string.
+   - Open `appsettings.json` and replace the placeholder in `"ContactDbSettings"` with your MongoDB connection string.
 
 6. **Run the application:**
    ```bash
