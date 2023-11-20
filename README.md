@@ -60,4 +60,4 @@ This project adheres to the SOLID principles:
 5. **D - Dependency Inversion Principle (DIP):**
    - High-level modules should not depend on low-level modules; both should depend on abstractions.
 
-Feel free to explore and contribute to ContactManager! Happy coding! 🚀📞
+Feel free to explore and contribute to ContactManager! Happy coding! 🚀👨‍💻👩‍💻
